@@ -1,10 +1,11 @@
 # Configurations
-title:            Jekyll Gitbook
-longtitle:        Jekyll Gitbook
-author:           HE Tao
-email:            sighingnow@gmail.com
+title:            REPLICATE-CER Project
+longtitle:        REPLICATE-CER Project
+author:           Sarah Heckman, Jeff Carver, and Mark Sherriff
+email:            sherriff@virginia.edu
 description: >
-  Build Jekyll site with the GitBook style.
+  REPLICATE-CER is a project to replicate and validate the results of
+  prior empirical software engineering studies.
 
 version:          1.0
 gitbook_version:  3.2.3
