@@ -43,3 +43,7 @@ The project provides:
 - Monthly cohort meetings
 - Ongoing mentoring from the PI team and RDT
 - Support for dissemination and publication
+
+### How to apply
+
+If you are interested in participating, please complete the short form found at: [http://replicate-cer.org/apply](http://replicate-cer.org/apply)

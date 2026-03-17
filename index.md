@@ -31,3 +31,5 @@ This project is intentionally designed to:
 - Support equity-enabling research practices
 - Value collaboration over novelty
 - Treat replication as *foundational scholarship*, not secondary work
+
+The goal is to create a clearly specified study protocol that can be implemented across institutions, enabling meaningful replication and comparison of results.

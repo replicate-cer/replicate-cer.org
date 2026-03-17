@@ -27,3 +27,7 @@ Replication Design Teams are small groups of researchers who **co-design** a coo
 - Researchers from a variety of institution types (e.g., R1s, liberal arts colleges, community colleges, MSIs)
 
 RDT members receive a **stipend** in recognition of the time and leadership required.
+
+### How to apply
+
+If you are interested in participating, please complete the short form found at: [http://replicate-cer.org/apply](http://replicate-cer.org/apply)
