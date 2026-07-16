@@ -53,11 +53,13 @@ During the June 2026 workshop, the team:
 
 <td style="width:33%; vertical-align:top; text-align:center; border:none;">
 
-<img src="/assets/images/headshot.png" width="160" alt="Mark Sherriff">
+<img src="/assets/images/headshots/sherriff.png" width="160" alt="Mark Sherriff">
 
 <h2>Mark Sherriff</h2>
 <strong>University of Virginia</strong>
-
+<br clear="all">
+<br clear="all">
+Mark Sherriff is the Joseph L. Vaughan Professor of Humanities and a Professor of Computer Science at the University of Virginia. His research interests are in CS education, the scholarship of teaching and learning (SoTL), and gamification.
 </td>
 
 </tr>
@@ -125,13 +127,15 @@ During the June 2026 workshop, the team:
 
 <td style="border:none;">
 
-<img src="/assets/images/headshot.png" width="120" align="left" style="margin-right:15px;" alt="Sarah Morrison-Smith">
+<img src="/assets/images/headshots/morrison-smith.png" width="120" align="left" style="margin-right:15px;" alt="Sarah Morrison-Smith">
 
 <h2>Sarah Morrison-Smith</h2>
 <strong>Hamilton College</strong>
 
 <br clear="all">
-
+<br clear="all">
+<p>
+Sarah Morrison-Smith is an Assistant Professor of Computer Science at Hamilton College. Her research interests include supporting communication and collaboration in research teams, remote work, accessibility, and AI sustainability.</p>
 </td>
 
 <td style="border:none;">
@@ -139,7 +143,7 @@ During the June 2026 workshop, the team:
 <img src="/assets/images/headshot.png" width="120" align="left" style="margin-right:15px;" alt="Mohammed Seyam">
 
 <h2>Mohammed Seyam</h2>
-<strong>Virginia Polytechnic Institute and State University (Virginia Tech)</strong>
+<strong>Virginia Tech</strong>
 
 <br clear="all">
 
