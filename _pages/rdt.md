@@ -105,7 +105,7 @@ Qiang Hao is an Associate Professor in the Department of Computer Science at Wes
 
 <td style="border:none;">
 
-<img src="/assets/images/headshot.png" width="120" align="left" style="margin-right:15px;" alt="Joydeep Mitra">
+<img src="/assets/images/headshots/mitra.png" width="120" align="left" style="margin-right:15px;" alt="Joydeep Mitra">
 
 <h2>Joydeep Mitra</h2>
 <strong>Northeastern University / Khoury College of Computer Sciences</strong>
