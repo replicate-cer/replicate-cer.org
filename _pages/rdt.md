@@ -126,6 +126,7 @@ Joydeep Mitra is a teaching assistant professor at the Khoury College of Compute
 <strong>Johns Hopkins University</strong>
 
 <br clear="all">
+<br clear="all">
 
 </td>
 
