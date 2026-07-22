@@ -86,12 +86,16 @@ Mark Sherriff is the Joseph L. Vaughan Professor of Humanities and a Professor o
 
 <td style="width:50%; vertical-align:top; border:none;">
 
-<img src="/assets/images/headshot.png" width="120" align="left" style="margin-right:15px;" alt="Qiang Hao">
+<img src="/assets/images/headshots/hao.png" width="120" align="left" style="margin-right:15px;" alt="Qiang Hao">
 
 <h2>Qiang Hao</h2>
 <strong>Western Washington University</strong>
 
 <br clear="all">
+<br clear="all">
+<p>
+Qiang Hao is an Associate Professor in the Department of Computer Science at Western Washington University, His research interests are computing education, human-computer interaction, and software engineering.
+</p>
 
 </td>
 
@@ -107,6 +111,10 @@ Mark Sherriff is the Joseph L. Vaughan Professor of Humanities and a Professor o
 <strong>Northeastern University / Khoury College of Computer Sciences</strong>
 
 <br clear="all">
+<br clear="all">
+<p>
+Joydeep Mitra is a teaching assistant professor at the Khoury College of Computer Sciences in Northeastern University, Boston. His esearch interests include empirical software engineering, computer science education, and interdisciplinary applications of software engineering in fields such as digital humanities and cheminformatics.
+</p>
 
 </td>
 
