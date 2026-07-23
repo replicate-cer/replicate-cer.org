@@ -186,15 +186,15 @@ Ph.D. Student
 
 <td style="width:50%; vertical-align:top; border:none;">
 
-<img src="/assets/images/headshot.png" width="120" align="left" style="margin-right:15px;" alt="Tiva Rocco">
+<img src="/assets/images/headshots/rocco.png" width="120" align="left" style="margin-right:15px;" alt="Tiva Rocco">
 
 <h2>Tiva Rocco</h2>
 <strong>North Carolina State University</strong>
 
-Ph.D. Student
-
 <br clear="all">
-
+<br clear="all">
+<p>Tiva Rocco is a PhD student at North Carolina State University. Her research interests include computing and software engineering education, repository mining, and collaboration analytics.
+</p>
 </td>
 
 </tr>
